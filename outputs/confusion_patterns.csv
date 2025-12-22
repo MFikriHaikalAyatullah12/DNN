@@ -1,0 +1,8 @@
+true_class,predicted_as,count,percentage
+Makanan Olahan,Reparasi Kendaraan,115,42.91044776119403
+Makanan Olahan,Roti & Kue,37,13.805970149253731
+Makanan Olahan,Tekstil & Pakaian,116,43.28358208955223
+Reparasi Kendaraan,Makanan Olahan,2,100.0
+Tekstil & Pakaian,Makanan Olahan,4,14.285714285714285
+Tekstil & Pakaian,Reparasi Kendaraan,6,21.428571428571427
+Tekstil & Pakaian,Roti & Kue,18,64.28571428571429

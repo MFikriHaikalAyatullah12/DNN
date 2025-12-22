@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.9801005446166736,
+  "f1_macro": 0.9761692412674445,
+  "f1_weighted": 0.9801370873829185,
+  "num_classes": 4,
+  "input_dim": 154,
+  "n_tfidf_features": 150,
+  "n_numeric_features": 4,
+  "classes": [
+    "Makanan Olahan",
+    "Reparasi Kendaraan",
+    "Roti & Kue",
+    "Tekstil & Pakaian"
+  ]
+}

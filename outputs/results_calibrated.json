@@ -1,0 +1,39 @@
+{
+  "accuracy_uncalibrated": 0.9375785504817763,
+  "accuracy_calibrated": 0.9375785504817763,
+  "balanced_accuracy": 0.9658163322562735,
+  "f1_macro": 0.9313791705796042,
+  "log_loss_before": 0.3694665108955918,
+  "log_loss_after": 0.738441444849539,
+  "temperature": 2.0,
+  "f1_std": 0.022358641236618678,
+  "per_class_f1": [
+    0.9478889311525295,
+    0.9071698113207547,
+    0.9588014981273408,
+    0.9116564417177914
+  ],
+  "hyperparameters": {
+    "learning_rate": 0.0001,
+    "dropout_rates": [
+      0.6,
+      0.5,
+      0.4
+    ],
+    "l2_reg": 0.005,
+    "batch_size": 16,
+    "epochs": 150,
+    "label_smoothing": 0.25,
+    "temperature": 2.5,
+    "mixup_alpha": 0.3,
+    "focal_gamma": 3.5,
+    "focal_alpha": 0.5,
+    "smote_ratio": 1.0
+  },
+  "classes": [
+    "Makanan Olahan",
+    "Reparasi Kendaraan",
+    "Roti & Kue",
+    "Tekstil & Pakaian"
+  ]
+}
